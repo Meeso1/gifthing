@@ -1,0 +1,23 @@
+User Profile Information:
+
+Name: Sarah
+Age: 28
+Gender: Female
+Location: Seattle, WA
+Interests: Photography, hiking, cooking, reading mystery novels
+Budget Range: $50-200 for most gifts
+Relationship Status: In a relationship
+Has Pets: Yes, a golden retriever named Max
+Occupation: Software engineer
+Recent Life Events: Just moved into a new apartment
+
+Shopping History:
+- Previously bought: Camera accessories, outdoor gear, kitchen gadgets
+- Favorite brands: Patagonia, Sony, Le Creuset
+- Gift style preference: Practical items with a thoughtful touch
+
+Notes:
+- Prefers experiences over material things when possible
+- Environmentally conscious, likes sustainable products
+- Not a fan of generic gift cards
+
